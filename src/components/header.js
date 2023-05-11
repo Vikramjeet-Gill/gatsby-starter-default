@@ -1,5 +1,6 @@
 import * as React from "react"
 import { Link } from "gatsby"
+import "./navbar.css"
 
 const Header = ({ siteTitle }) => (
   <header
@@ -14,12 +15,22 @@ const Header = ({ siteTitle }) => (
     <Link
       to="/"
       style={{
-        fontSize: `var(--font-sm)`,
+        fontSize: `20px`,
         textDecoration: `none`,
+        color: 'black',
+        borderRadius: '10px',
+        padding: '10px',  
       }}
     >
       {siteTitle}
     </Link>
+
+    <div class="navbar">
+        <a href="http://localhost:8000/">Home</a>
+        <a href="http://localhost:8000/page-2/">Page 2</a>
+        <a href="http://localhost:8000/using-typescript/">Typescript</a>
+    </div>
+
     <img
       alt="Gatsby logo"
       height={20}

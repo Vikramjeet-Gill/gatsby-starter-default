@@ -1,0 +1,19 @@
+header {
+    background-color: #bb6af1;
+  }
+
+header a:hover {
+    color: black;
+    background-color: white;
+}
+  
+.navbar a {
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    float: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
