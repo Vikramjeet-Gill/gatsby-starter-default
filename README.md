@@ -1,13 +1,13 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+<h1 align="center">
+  My Name is Vikramjeet Gill
+</h1>
+
 <p align="center">
   <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
 </p>
-
-<h1 align="center">
-  My Name is Vikramjeet Gill
-</h1>
 
 <h1 align="center">
   Gatsby's default starter
