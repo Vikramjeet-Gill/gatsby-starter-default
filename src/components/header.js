@@ -26,9 +26,9 @@ const Header = ({ siteTitle }) => (
     </Link>
 
     <div class="navbar">
-        <a href="http://localhost:8000/">Home</a>
-        <a href="http://localhost:8000/page-2/">Page 2</a>
-        <a href="http://localhost:8000/using-typescript/">Typescript</a>
+        <a href="https://645d7fca8071fb208c823c75--soft-squirrel-739201.netlify.app/">Home</a>
+        <a href="https://645d7fca8071fb208c823c75--soft-squirrel-739201.netlify.app/page-2/">Page 2</a>
+        <a href="https://645d7fca8071fb208c823c75--soft-squirrel-739201.netlify.app/using-typescript/">Typescript</a>
     </div>
 
     <img
