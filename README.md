@@ -3,6 +3,11 @@
   My Name is Vikramjeet Gill
 </h1>
 
+<p>
+  The way that I implemented my solution was that I added a div to const Header in header.js to create the different components of the navbar. I then created the file navbar.css to style the
+  navbar. I also used that style on the "Gatsby default server" link to maintain design consistency. 
+</p>
+
 <p align="center">
   <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
